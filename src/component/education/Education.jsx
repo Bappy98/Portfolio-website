@@ -20,7 +20,7 @@ const institution = [
   },
   {
     image:img3,
-    name:'mukul niketon high school mymensingh',
+    name:'Mukul Niketon High School Mymensingh',
     degree:'SSC',
     session:'2016',
     graduation:'Complete'

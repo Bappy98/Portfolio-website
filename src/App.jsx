@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "./component/top-bar/Navbar";
-import Home from "./component/Home/home";
 import About from "./component/about/About";
 import Education from "./component/education/Education";
 import Contact from "./component/contact/Contact";
+import Home from "./component/Home/Home";
 
 function App() {
   return <div className="bg-slate-800">

@@ -10,7 +10,7 @@ function About() {
             <div className='font-semibold text-3xl text-white'>About</div>
             <p className='text-justify sm:mt-2 text-slate-200'>I am Faysal Ahmed Bappy.I am student. I love programming. I live in Trishal, Mymensingh</p>
             <div className='text-white text-xl font-semibold mt-4'>Skill</div>
-            <div className='text-zinc-200'>competitive programming</div>
+            <div className='text-zinc-200'>Competitive programming</div>
             <ul className='ml-8 text-slate-200'>
               <li>C</li>
               <li>C++</li>
