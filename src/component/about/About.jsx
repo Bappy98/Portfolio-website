@@ -2,7 +2,7 @@ import React from 'react'
 import img from '../../assets/image/IMG_20221008_154853.jpg'
 function About() {
   return (
-    <div className='min-h-screen pt-[100px] m-4 flex justify-center flex-wrap items-center gap-2' id='about'>
+    <div className='min-h-screen pt-[100px] m-4 flex justify-center flex-wrap items-center gap-2' name='about'>
         <div className='p-4'>
             <img src={img} className=' rounded-3xl w-60 shadow-md shadow-white' alt="faysal" />
         </div>

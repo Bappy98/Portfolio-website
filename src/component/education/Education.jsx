@@ -28,7 +28,7 @@ const institution = [
 ]
 function Education() {
   return (
-   <div className='min-h-screen flex flex-col justify-center items-center pt-[100px]' id='education'>
+   <div className='min-h-screen flex flex-col justify-center items-center pt-[100px]' name='education'>
     <div className='flex items-center justify-center flex-col mb-12'>
       <div className='font-semibold text-3xl text-white mb-12'>Education</div>
       <img src={img} className='h-32 shadow-md shadow-white rounded-md' alt="" /> 

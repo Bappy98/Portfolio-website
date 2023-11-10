@@ -3,7 +3,7 @@ import myPhoto from './../../assets/image/299232368_1380185252473695_78529526706
 
 function Home() {
   return (
-    <div className='min-h-screen flex items-center justify-center flex-wrap flex-col sm:justify-between sm:flex-row-reverse relative top-[80px]' id='home'>
+    <div className='min-h-screen flex items-center justify-center flex-wrap flex-col sm:justify-between sm:flex-row-reverse relative top-[80px]' name='home'>
         <div className='w-[40%] '>
             <img src={myPhoto} className='rounded-full sm:h-64 shadow-md shadow-emerald-400' alt="bappy" />
         </div>
